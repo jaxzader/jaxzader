@@ -3,6 +3,7 @@
 AI in Business student at **Arizona State University, W. P. Carey School of Business** (Class of 2028). I build practical AI tools for real business problems.
 
 ### What I'm working on
+- **[AI Invoice Processor](https://github.com/jaxzader/invoice-ai)**: extracts invoice data from PDFs with an LLM and flags math errors and duplicates. [Live demo](https://jax-invoice-ai.streamlit.app)
 - **Breast Cancer Recovery App**: founding a free virtual physical therapy app with an oncology physical therapist. Product design and development in progress.
 - **Prompt Library**: custom AI assistants I've designed and tested in Claude, including a job-application coach and a daily planner. See [prompt-library](https://github.com/jaxzader/prompt-library).
 - **PowerPlot** (CIS 404 team project): predicting where AI data centers will be built using public data on power, water, land, and fiber.
